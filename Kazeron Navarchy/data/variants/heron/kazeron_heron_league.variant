@@ -1,0 +1,35 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 9,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "kazeron_heron_league",
+    "hullMods": [
+		"eccm"
+	],
+    "permaMods": [],
+    "variantId": "kazeron_heron_league",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "pilum"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdlaser",
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+				"WS 004": "pdlaser",
+                "WS 009": "pdlaser",
+                "WS 010": "pdlaser"
+            }
+        }
+    ],
+    "wings": [
+        "trident_wing",
+        "longbow_wing",
+        "broadsword_wing"
+    ]}

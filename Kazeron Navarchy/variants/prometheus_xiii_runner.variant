@@ -1,0 +1,44 @@
+{
+    "displayName": "Runner",
+    "fluxCapacitors": 30,
+    "fluxVents": 23,
+	"goalVariant": true,
+    "hullId": "prometheus_xiii",
+    "hullMods": [
+        "unstable_injector",
+        "fluxbreakers",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "prometheus_xiii_runner",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "railgun",
+                "WS 004": "railgun"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 006": "lightneedler"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "flak"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "vulcan",
+                "WS 005": "vulcan",
+                "WS 007": "vulcan"
+            }
+        }
+    ]
+}

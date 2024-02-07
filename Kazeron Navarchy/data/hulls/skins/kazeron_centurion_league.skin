@@ -1,0 +1,18 @@
+{
+    "baseHullId":"centurion",
+    "skinHullId":"kazeron_centurion_league",
+    "hullName":"Centurion (PL)",
+    "descriptionId":"centurion",
+    "descriptionPrefix":"Built with specifications for Domain Navy use (although never officially deployed), this vessel has been adopted by the Persean League and is a prime specimen of the Kazeron Navarchy's doctrine of speed and power, particularly through its engines which are modified using cutting edge pre-Collapse industrial techniques.",
+    "tags":["kazeron_PL_bp"],
+    "tech":"Kazeron Navarchy",
+    "spriteName":"graphics/kazeron/ships/centurion_kazeron.png",
+    "baseValueMult":1.25,
+    "removeWeaponSlots":[],         # ids
+    "removeEngineSlots":[],         # indices, as engine slots have no id in the .ship file
+    "removeBuiltInMods":[],         # hullmod ids
+    "removeBuiltInWeapons":[],      # weapon slot ids
+    "builtInMods":["kazeron"],
+    "builtInWeapons":{
+    },
+}

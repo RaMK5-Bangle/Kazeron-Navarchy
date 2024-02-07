@@ -1,0 +1,48 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 20,
+    "fluxVents": 20,
+	"goalVariant": true,
+    "hullId": "falcon_xiii",
+    "hullMods": [
+        "targetingunit",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "falcon_xiii_escort",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "hveldriver",
+                "WS 008": "hveldriver"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "ionbeam",
+                "WS 006": "ionbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "pdlaser",
+                "WS 010": "pdlaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "mininglaser",
+                "WS 004": "mininglaser"
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "displayName": "Runner",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+	"goalVariant": true,
+    "hullId": "mudskipper_xiii",
+    "hullMods": [
+        "safetyoverrides",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "mudskipper_xiii_runner",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {"WS 003": "vulcan"}
+    }]
+}

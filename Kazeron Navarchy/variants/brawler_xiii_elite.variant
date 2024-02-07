@@ -1,0 +1,33 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+	"goalVariant": true,
+    "hullId": "brawler_xiii",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "targetingunit",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "brawler_xiii_elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "shredder",
+                "WS 002": "shredder"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "taclaser",
+                "WS 004": "taclaser"
+            }
+        }
+    ]
+}

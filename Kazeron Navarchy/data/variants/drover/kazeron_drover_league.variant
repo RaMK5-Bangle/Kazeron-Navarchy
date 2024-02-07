@@ -1,0 +1,30 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 2,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "kazeron_drover_league",
+    "hullMods": [
+		"missleracks",
+		"eccm",
+		"expanded_deck_crew"
+	],
+    "permaMods": [],
+    "variantId": "kazeron_drover_league",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "harpoon",
+				"WS 003": "harpoon",
+                "WS 004": "harpoon",
+                "WS 005": "harpoon"
+            }
+        }
+    ],
+    "wings": [
+        "longbow_wing",
+        "longbow_wing",
+    ]
+}

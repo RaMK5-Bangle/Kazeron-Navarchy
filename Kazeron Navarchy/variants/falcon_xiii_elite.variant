@@ -1,0 +1,47 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 22,
+    "fluxVents": 25,
+	"goalVariant": true,
+    "hullId": "falcon_xiii",
+    "hullMods": ["targetingunit"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "falcon_xiii_elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "hveldriver",
+                "WS 008": "hveldriver"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "gorgon",
+                "WS 002": "gorgon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "gravitonbeam",
+                "WS 006": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "mininglaser",
+                "WS 004": "mininglaser",
+                "WS 009": "lrpdlaser",
+                "WS 010": "lrpdlaser"
+            }
+        }
+    ]
+}
