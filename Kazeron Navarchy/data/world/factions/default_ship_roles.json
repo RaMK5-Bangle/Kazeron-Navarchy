@@ -18,6 +18,8 @@
 	"combatLarge":{
 		"kazeron_gryphon_league":10,
 		"kazeron_champion_league":10,
+		"kazeron_falcon_league":5,
+		"kazeron_eagle_league":5,
 	},
 	"combatCapital":{
 		"kazeron_odyssey_league":10,

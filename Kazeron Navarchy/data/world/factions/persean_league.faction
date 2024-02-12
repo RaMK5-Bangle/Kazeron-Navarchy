@@ -1,17 +1,10 @@
 {
     "hullFrequency":{
 		"tags":{
-            #"kazeron_PL_bp":.5,
+            "kazeron_PL_bp":0.5,
 		},
 		"hulls":{
-			#"gryphon":1,
-			"kazeron_gryphon_league":2,
-			#"champion":1,
-			"kazeron_champion_league":3,
-			#"heron":1,
-			"kazeron_heron_league":2,
-			"kazeron_drover_league":2,
-			"kazeron_odyssey_league":.25,
+
         },
     },
     "knownShips":{
@@ -19,7 +12,6 @@
     },
     "priorityShips":{
         "hulls":[
-			"kazeron_odyssey_league",
 			"kazeron_conquest_league",
 			"kazeron_pegasus_league",
         ],
