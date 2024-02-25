@@ -3,7 +3,7 @@
     "skinHullId":"kazeron_champion_league",
     "hullName":"Champion (PL)",
     "descriptionId":"champion",
-    "descriptionPrefix":"Built with specifications for Domain Navy use (although never officially deployed), this vessel has been adopted by the Persean League and is a prime specimen of the Kazeron Navarchy's doctrine of speed and power, particularly through its engines which are modified using cutting edge pre-Collapse industrial techniques.",
+    "descriptionPrefix":"Constructed using advanced pre-Collapse industrial techniques within the shipyards of Kazeron, there is widespread debate regarding whether it was genuinely intended for deployment in the Domain Navy. Numerous historians openly speculate that the technology was initially acquired by the now-extinct Mayasuran Navy from Tri-Tachyon before the Collapse, only to subsequently disavow their own theories mysteriously. Regardless, the Persean League has embraced this vessel, considering it a exemplary embodiment of the Kazeron Navarchy's commitment to speed and power, especially evident in its advanced engines.",
     "tags":["kazeron_PL_bp"],
     "tech":"Kazeron Navarchy",
     "spriteName":"graphics/kazeron/ships/champion_kazeron.png",

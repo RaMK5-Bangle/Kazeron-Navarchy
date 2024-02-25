@@ -1,20 +1,17 @@
 {
     "displayName": "Elite",
-    "fluxCapacitors": 9,
-    "fluxVents": 0,
+    "fluxCapacitors": 14,
+    "fluxVents": 5,
     "goalVariant": true,
     "hullId": "kazeron_heron_league",
     "hullMods": [
-		"eccm"
-	],
+        "expanded_deck_crew",
+        "pointdefenseai"
+    ],
     "permaMods": [],
+    "sMods": [],
     "variantId": "kazeron_heron_league",
     "weaponGroups": [
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {"WS 005": "pilum"}
-        },
         {
             "autofire": true,
             "mode": "LINKED",
@@ -22,14 +19,20 @@
                 "WS 001": "pdlaser",
                 "WS 002": "pdlaser",
                 "WS 003": "pdlaser",
-				"WS 004": "pdlaser",
+                "WS 004": "pdlaser",
                 "WS 009": "pdlaser",
                 "WS 010": "pdlaser"
             }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "pilum"}
         }
     ],
     "wings": [
-        "trident_wing",
-        "longbow_wing",
-        "broadsword_wing"
-    ]}
+        "thunder_wing",
+        "thunder_wing",
+        "gladius_kazeron_wing"
+    ]
+}
