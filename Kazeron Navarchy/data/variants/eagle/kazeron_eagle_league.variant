@@ -2,6 +2,7 @@
     "displayName": "Elite",
     "fluxCapacitors": 25,
     "fluxVents": 20,
+    "goalVariant": true,
     "hullId": "kazeron_eagle_league",
     "hullMods": ["targetingunit"],
     "permaMods": [],

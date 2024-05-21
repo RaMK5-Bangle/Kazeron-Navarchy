@@ -2,6 +2,7 @@
     "displayName": "Elite",
     "fluxCapacitors": 17,
     "fluxVents": 10,
+    "goalVariant": true,
     "hullId": "kazeron_falcon_league",
     "hullMods": [
         "hardenedshieldemitter",
