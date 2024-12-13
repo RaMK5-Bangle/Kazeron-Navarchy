@@ -16,6 +16,13 @@
 			"kazeron_pegasus_league",
         ],
     },
+	"knownFighters":{
+		"tags":["kazeron_PL_bp"],
+		"fighters":[
+			"thunder_kazeron_wing",
+			"gladius_kazeron_wing",
+		],
+	},	
 	"knownWeapons":{
 		"weapons":[
 			"lightneedler",
