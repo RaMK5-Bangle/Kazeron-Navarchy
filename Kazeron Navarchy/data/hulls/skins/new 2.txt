@@ -1,0 +1,43 @@
+- This one needs some heavy rework, there is too much symbolism and emotions.
+Convellaria basic:
+"Convallaria serves as the current capital of the Blackguards. Initially, a frozen and unremarkable world, it was selected to replicate their former headquarters, Rafflesia, and symbolize their recovery.  
+
+However, the use of outdated and poorly maintained terraforming devices, salvaged from Rafflesia decades after its fall, resulted in a somewhat melancholic outcome.   
+
+Despite the extensive flora now adorning its surface, warmer than its predecessor, perpetual storms shroud this altered world, condemning anyone outside the meter-thick walls of the hive cities to certain death.    Convallaria embodies the very symbol of recovery the Blackguards aspired to achieve, and yet represents the risk of being unable to rise above the ashes."
+
+Convellaria additional info:
+"While serving as a symbol of both renewal and a cautionary tale of potential failure, Convallaria also heralds change. Despite the enduring impact of Rafflesia's fall on the collective consciousness of the Blackguards, it has provided them with a temporary liberation from their past within the Domain and those claiming to be its successor.  
+
+However, the past persistently resurfaces to haunt them. The squabbling "inheritors" of that accursed empire and the followers of a false prophet relentlessly pursue the Blackguards, launching attacks on behalf of their supposed heritage from a forgotten past and the genetic alterations forcibly imposed upon them by that very empire."
+
+
+
+- Im faily sathisfied with Northumbria, maybe only a few grammatical fixes
+Northumbria basic:
+"Comprised of the recycled remnants of the terraforming station that once reshaped the environment of the world below, Northumbria has evolved into a conglomeration of orbital habitats, shipyards, and formidable military complexes.   Now expanded to a brutish scale, this shell world stands as the principal military complex of the BGC."
+
+Northumbria additional info (maybe this needs some rewrite):
+"As you draw near to the interconnected expanse of conjoined metal continents, the spectacle unfolds before you—a striking scene of dark silhouettes gliding over storm-ridden skies. The clouds beneath them part like a gaping maw, revealing glimpses of the tumultuous weather within and the cities below. Meanwhile, beyond the atmospheric canvas, the Tyrant bathes the scene in its crimson glow, a distant and ominous presence beyond the sky."
+
+
+
+This also needs serious rework. Again, too much emotions.
+Mandrake Basic (doesnt really need any mayor changes):
+"The latest addition to the BGC, and primary manufactorum of the Blackguards' domestic line of automated ships. The colony is strategically positioned in isolation, in apprehension that this awe-inspiring technology may turn rogue."
+
+Mandrake additional info (this does.):
+"The technology was painstakingly gathered by independent salvage fleets during the escalating days of the First AI War, driven by their hopes of creating a fortune amidst the chaos.    
+
+They were slaughtered and scavenged, all for the sake of some leftover corporate entity to conceal their existence and profit from the rest of humanity, the fruits of their labor now lie entombed beneath the frozen surface of this secluded colony."
+
+
+
+Sounds too dull.
+Rafflesia Basic:
+"The former headquarters of the BGC before the Collapse. Ever since the virus-bombardment of Tri-Tachyon, its domain-era cities and infrastructure are left relatively untouched, with individual skyscrapers peaking out beneath the snow."
+
+Rafflesia additional Info:
+"Navigating through the debris field of Rafflesia, you plow into cracked ships and other hazards. Eventually, you reach a stable orbit above this world.   
+
+According to records from the domain era, this world was formerly under the ownership of Tri-Tachyon before being acquired by the JDA, followed by the deployment of the BGC. The exact motives behind Tri-Tachyon's actions remain unknown, but it is believed that the megacorporation might have been coerced through a lawsuit alleging its illegal development of AI technology at that time."
