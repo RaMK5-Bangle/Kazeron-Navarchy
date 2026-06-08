@@ -1,3 +1,18 @@
+Change log - - 1.8.0v - - 07. 06. 2026
+
+[Ships]
+Added skins from BigBeans Ship Compilation:
+- Accipiter
+- Buzzard
+
+Minor adjustments:
+- Drover
+- Pegasus
+
+[Hullmod]
+- Updated Navarchy hullmod to have 15% speed increase, shield bonus 5%, with a drawback of -75 armor.
+
+
 Change log - - 1.7.1v - - 21. 10. 2025
 
 [Ships]
